@@ -1,7 +1,7 @@
 # PrivateJavaTeam
 # Lập trình Java - IS216.N23 - GVHD: thầy Tạ Việt Phương
 Thành viên nhóm Private  
-|  MSSV  |          HOTEN           |          Gmail         |
+|  MSSV  |          HOTEN           |          GMAIL         |
 |:------:|:------------------------:|:----------------------:|
 |21522812|Nguyễn Triệu Vy - leader  |21522812@gm.uit.edu.vn  |
 |21520086|Huỳnh Lê Phong            |21520086@gm.uit.edu.vn  |
